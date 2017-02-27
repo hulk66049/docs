@@ -185,7 +185,7 @@ Output:
 
 .. code-block:: html
 
-    <form method="post" action="/users/login">
+    <form method="post" action="/article/login">
 
 If the desired form action isn't in the current controller, you can specify
 a complete URL for the form action. The supplied URL can be relative to your
